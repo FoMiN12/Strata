@@ -65,7 +65,7 @@ Do NOT download `mtp-Qwen3.8-Flash-Next-Q8_0.gguf` - it cannot be used (step 4 b
 
 ## 2. Clone and build the engine
 
-    git clone https://github.com/Niko1221/Strata.git && cd Strata
+    git clone https://github.com/FoMiN12/Strata.git && cd Strata
     git checkout f-ple-q8
     python3 -m venv .venv
     .venv/bin/pip install numpy pyyaml jinja2 regex requests tqdm cmake ninja
